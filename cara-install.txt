@@ -1,0 +1,17 @@
+1. install xampp
+2. install composer
+3. Buat basis data dengan nama "pengaduan"
+4. buka command prompt masuk ke folder aplikasi
+5. ketikkan composer update
+6. ketikkan php artisan migrate
+7. ketikkan php artisan db:seed --class=AkunSeeder
+8. ketik php artisan serve
+9. buka aplikasi http://127.0.0.1:8000
+
+Username & password
+admin
+email : adinata.imam@gmail.com
+pass : 123456
+
+masyarakat
+register
